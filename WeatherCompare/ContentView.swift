@@ -110,9 +110,9 @@ struct ContentView: View {
                    let description = weather["description"] as? String,
                    let icon = weather["icon"] as? String {
                     
-                    let iconURL = "https://openweathermap.org/img/wn/\(icon)@2x.png"
+                    //let iconURL = "https://openweathermap.org/img/wn/\(icon)@2x.png"
                     
-                    completion("🌡 Temp: \(temp)°C\n🌤 \(description.capitalized)\n🖼 [Icon](\(iconURL))")
+                    completion("🌡 Temp: \(temp)°C\n🌤 \(description.capitalized)")
                 } else {
                     completion("Could not parse weather for \(city)")
                 }
