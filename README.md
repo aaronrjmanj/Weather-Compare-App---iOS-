@@ -38,3 +38,6 @@ A simple iOS app built with **SwiftUI** that allows users to **compare the weath
    ```sh
    git clone https://github.com/YOUR_USERNAME/WeatherCompare.git
    cd WeatherCompare
+2.	Open WeatherCompare.xcodeproj in Xcode.
+3.	Replace "YOUR_API_KEY" in ContentView.swift with your actual API key.
+4.	Select an iPhone simulator and Run the project (Cmd + R).
