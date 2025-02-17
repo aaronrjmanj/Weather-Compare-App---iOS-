@@ -5,7 +5,7 @@ A simple iOS app built with **SwiftUI** that allows users to **compare the weath
 ---
 
 ## 📸 Screenshot
-![WeatherCompare App Screenshot]
+![WeatherCompare App Screenshot](https://github.com/aaronrjmanj/Weather-Compare-App---iOS-/blob/main/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-02-17%20at%2010.12.11.png)
 
 ---
 
